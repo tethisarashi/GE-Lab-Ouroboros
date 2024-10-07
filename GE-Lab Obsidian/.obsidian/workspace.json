@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Help/Hallo.md",
+                "file": "Help/Namenskonventionen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6d17306ee33c6f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Karo/Karos Bereich.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afe428ad38c49053",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Natalie/Natalies Bereich.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92773bc5b7fdbea4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Karo/Karos Bereich.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9fe1a2736c6398c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Help/Namenskonventionen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Help/Hallo.md",
+                "file": "Help/Namenskonventionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Help/Hallo.md",
+                "file": "Help/Namenskonventionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Help/Hallo.md"
+                "file": "Help/Namenskonventionen.md"
               }
             }
           }
@@ -146,9 +195,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea919a21663e6f2e",
+  "active": "9bea88b4913b10c4",
   "lastOpenFiles": [
-    "Help/Hallo.md",
+    "Ksenia/Ksenias Bereich.md",
+    "Karo/Karos Bereich.md",
+    "Robin/Robins Bereich.md",
+    "Natalie/Natalies Bereich.md",
+    "Untitled",
+    "Help/Namenskonventionen.md",
+    "Untitled.canvas",
+    "Help/Test.md",
     "Help",
     "Natalie",
     "Ksenia",

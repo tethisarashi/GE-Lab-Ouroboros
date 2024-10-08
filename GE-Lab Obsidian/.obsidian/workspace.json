@@ -66,9 +66,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e8156217579788ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Help/Termine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f19fbc305cd3aa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Help/Meilensteine und Zeitplan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fa8ac2e85ced66a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Help/Reminder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -134,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Help/Namenskonventionen.md",
+                "file": "Help/Reminder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Help/Namenskonventionen.md",
+                "file": "Help/Reminder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Help/Namenskonventionen.md"
+                "file": "Help/Reminder.md"
               }
             }
           }
@@ -195,14 +231,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9bea88b4913b10c4",
+  "active": "1fa8ac2e85ced66a",
   "lastOpenFiles": [
+    "Help/Meilensteine und Zeitplan.md",
+    "Help/Reminder.md",
+    "Help/Termine.md",
+    "Help/Namenskonventionen.md",
     "Ksenia/Ksenias Bereich.md",
     "Karo/Karos Bereich.md",
     "Robin/Robins Bereich.md",
     "Natalie/Natalies Bereich.md",
     "Untitled",
-    "Help/Namenskonventionen.md",
     "Untitled.canvas",
     "Help/Test.md",
     "Help",

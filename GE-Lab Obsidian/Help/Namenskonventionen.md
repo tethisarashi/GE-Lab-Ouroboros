@@ -6,7 +6,9 @@ Beispiele:
 - [added] characterController.cpp 
 - [edited] readme file description
 - [deleted] character blender model
-- ...
+- [updated] ...
+- [removed] ...
+- etc.
 
 
 ## Dateien und Ordner (UE-Styleguide)

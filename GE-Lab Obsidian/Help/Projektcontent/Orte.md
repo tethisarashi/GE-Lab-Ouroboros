@@ -1,0 +1,4 @@
+- Dörfer
+- Städte
+- Burg/Ruine
+- Banditenlager

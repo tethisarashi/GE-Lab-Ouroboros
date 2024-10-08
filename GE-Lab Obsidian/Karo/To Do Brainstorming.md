@@ -1,0 +1,15 @@
+- Gameplayloop
+	- Loop für Tag/Nacht mit Ticks
+- Karren fahren
+	- Steuerung links/rechts
+- Weg wählen
+	- an Weggabelung Pfad wählen
+- Kampf
+	- Turnbased Kampf (Pokemon/FF)
+- Quests annehmen und abgeben
+- Handeln
+- Ressourcen finden/aufsammeln
+- Ressourcenmanagement
+	- Ressourcen verbrauchen/verwenden --> automatisch essen, Ressourcen verwenden z.B. Tagesrationen craften
+	- Ressourcen aufnehmen
+	- Trupp hat Bedürfnisse

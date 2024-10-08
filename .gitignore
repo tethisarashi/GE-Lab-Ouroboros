@@ -72,3 +72,12 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# to exclude Obsidian workspace settings (including plugin and hotkey configurations)
+.obsidian/*
+
+# OR only to exclude workspace cache
+.obsidian/workspace/*
+
+# Exclude plugins
+.obsidian/plugins/*

@@ -1,0 +1,26 @@
+- Gameplayloop
+	- Loop für Tag/Nacht mit Ticks
+- Karren fahren
+	- Steuerung links/rechts
+	- automatisch fahren
+	- Events triggern durch rechts/links fahren
+- Weg wählen
+	- an Weggabelung Pfad wählen
+	- Ort besuchen (Szenenwechsel in Stadt/Burg/...)
+- Rasten/Nacht überspringen
+	- ggf. angegriffen werden/Events auslösen
+- Kampf
+	- Turnbased Kampf (Pokemon/FF) --> Gegner greift an, Taktikaktion/Angriff, Inventaraktion
+- Quests annehmen und abgeben + Belohnung erhalten
+- Handeln/Items kaufen
+- Ressourcen finden/aufsammeln
+- Ressourcenmanagement/Inventarmanagement
+	- Ressourcen verbrauchen/verwenden --> automatisch essen, Ressourcen verwenden z.B. Tagesrationen craften
+	- Ressourcen aufnehmen
+	- Trupp hat Bedürfnisse
+	- Trupp verwalten --> Waffen, Essen, etc. zuweisen
+- Tutorial
+
+To Discuss:
+- Dialogsystem? --> Ksenia?
+- Kontrollierte Zufälligkeit/Pfade zu Orten generieren, d.h. welcher Mapabschnitt kommt wann und wie nacheinander --> Robin?

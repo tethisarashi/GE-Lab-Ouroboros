@@ -1,5 +1,6 @@
 - Wegpunkte auf Splines (von Robin gesetzt)
 - mit jedem Wegpunkt, der passiert wird, wird der Tickcounter erhöht --> tickCounter++
+	- TESTEN, OB TRANSFORMS, LEERE OBJEKTE/CUBES, TRIGGERBOXEN FUNKTIONIEREN
 	- extra Triggerbox, um die Wegpunkte zu registrieren --> siehe Bild ![[WhatsApp Bild 2024-10-09 um 11.24.51_333496ab.jpg]]
 - Wegevents (d.h. Personen stehen am Wegrand --> geben Quest, Dialog oder Kampf) werden beim Übertritt auf einen neuen Mapabschnitt, nach einer Rast und nach einem Kampf neu generiert und gespawnt
 	- bei diesen Übergängen immer Schwarzblende

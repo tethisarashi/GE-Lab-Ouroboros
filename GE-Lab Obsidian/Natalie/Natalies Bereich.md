@@ -1,23 +1,20 @@
 Hier Notizen rein:
 
 ##  Fragen:
--wer macht Ressourcen (Mesh/Image) (für Inventar)
--wie Personen dargestellt bei Gesprächen (2D/3D? extra Image?)
--zu Gegner Pflanzen
-
 -updates über welt für mich und Ksenia (was ist in dieser möglich/existent)
 
 
 ## Aufgaben:
 ***Meshes:***
--Trupp (nach Fraktionen)
--NPCs (nach Fraktionen (so 2/3 die dann mehrfach einfügen))
--Gegner (ca. 3-6 jew. 3 evolutions)
--Waffen (erstmal 1-2 pro Char)
+- Trupp (nach Fraktionen)
+- Wagen (mit Pferd, Truhe, Kochstelle, empty space für langsam Füllen, Sitzen, Waffenhalterung) (Rad einzeln für Item)
+- NPCs (nach Fraktionen (so 2/3 die dann mehrfach einfügen))
+- Gegner (ca. 3-6 jew. 3 evolutions)
+- Waffen (erstmal 1-2 pro Char) -> 3D Mesh + 2D Image davon
 
 ***Animationen:***
 **-Trupp:**
-- Idle
+- Idle -> sitzen + stehen + stehen kampf
 - Walk
 - Attack
 - Hit
@@ -29,11 +26,16 @@ Hier Notizen rein:
 **-NPCs:**
 - Idle/Random Stuff (Winken, Holzhacken o.ä.)
 
+**-Wagen:**
+- fahren
+- damage
+- start/stop
+
 
 ***Ideen:***
 **-Gegner:**
 - Wölfe
-- Pflanzen (ab Stage 2)(oder schon 1 und unbeweglich giftnebel oder dornen o.ä.)
+- Pflanzen (Stage 1 normal aber touchdamage, ab Stage 2 Monster)
 - Mutanten (menschlich zu monster)
 - Ziege + Huhn (stage 3 zu Hybridmonster)
 

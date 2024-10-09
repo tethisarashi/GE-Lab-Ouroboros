@@ -4,19 +4,31 @@
 	- 12 Ticks Tag
 	- pro Tick gewisse Chance angegriffen zu werden --> Stufe 1: maximal einmal pro Nacht angegriffen werden; Stufe 2: maximal zweimal pro Nacht angegriffen werden; etc.
 - Karren fahren
-	- Steuerung links/rechts
-	- automatisch fahren
+	- Steuerung links/rechts AD
+	- Stoppen S
+	- Losfahren W
+	- automatisch fahren --> Spline entlang fahren
+		- eigene Spline und Wegpunkte (siehe Notizen) setzen und damit testen
 	- Events triggern durch rechts/links fahren
 - Weg wählen
 	- an Weggabelung Pfad wählen
 	- Ort besuchen (Szenenwechsel in Stadt/Burg/...)
 - Rasten/Nacht überspringen
 	- ggf. angegriffen werden/Events auslösen
+- Map generieren
+	- Wie die Mapstücke, die nacheinander passieren ausgewählt werden und verknüpft werden
+	- Mapstücke anzeigen, sodass man die zwei nächsten evtl. schon am Horizont erahnen kann (Burg aus Ferne sehen, Stadt aus Ferne sehen --> Nice to have) 
+		- aktuelle Map + die zwei nächsten bekannt, sobald aktuelle Map ausgewählt wurde
+	- Kontrollierte Zufälligkeit --> nicht jedes Stück mehrfach hintereinander
+	- Mapstücke abhängig von Quests anzeigen
 - Kampf
 	- Turnbased Kampf (Pokemon/FF) --> Gegner greift an, Taktikaktion/Angriff, Inventaraktion
 	- Charaktere haben AttackPower, Defense und +X je nach Waffe
 - Quests annehmen und abgeben + Belohnung erhalten
 - Handeln/Items kaufen
+- An Ort sein
+	- Städte, Dörfer
+	- Looten
 - Ressourcen finden/aufsammeln
 - Ressourcenmanagement/Inventarmanagement --> siehe Inventar Aufgabenverteilung
 	- Ressourcen verbrauchen/verwenden --> automatisch essen gibts nicht, Ressourcen verwenden z.B. Tagesrationen craften --> zunächst kein Crafting
@@ -24,9 +36,3 @@
 	- Trupp hat Bedürfnisse --> Leben, Hunger, Waffe, ...
 	- Trupp verwalten --> Waffen, Essen, etc. zuweisen --> Ksenia, ich nur Schnittstelle
 - Tutorial
-- Map generieren
-	- Wie die Mapstücke, die nacheinander passieren ausgewählt werden und verknüpft werden
-	- Mapstücke anzeigen, sodass man die zwei nächsten evtl. schon am Horizont erahnen kann (Burg aus Ferne sehen, Stadt aus Ferne sehen --> Nice to have) 
-		- aktuelle Map + die zwei nächsten bekannt, sobald aktuelle Map ausgewählt wurde
-	- Kontrollierte Zufälligkeit --> nicht jedes Stück mehrfach hintereinander
-	- Mapstücke abhängig von Quests anzeigen

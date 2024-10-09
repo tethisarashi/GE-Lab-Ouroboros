@@ -6,15 +6,11 @@ Beispiele:
 - [added] characterController.cpp 
 - [edited] readme file description
 - [deleted] character blender model
-- ...
+- [updated] ...
+- [removed] ...
+- etc.
 
 
-## Dateien
-Prefix_Dateiname
-
-Glossar:
-- Blueprint: BP_CharacterController
-- Animation: Anim_Attack
-- 3D-Objekte Welt: Object_Stone
-- 3D-Objekte Charaktere: Entity_Enemy
-- Materials/Texturen: Mat_Door
+## Dateien und Ordner (UE-Styleguide)
+Dateien: https://github.com/Allar/ue5-style-guide?tab=readme-ov-file#anc
+Ordner: https://github.com/Allar/ue5-style-guide?tab=readme-ov-file#structure

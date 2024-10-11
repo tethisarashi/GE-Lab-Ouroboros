@@ -6,7 +6,7 @@ Maps:
 
 -Sichtfeld Konzept entwickeln
 
--Pfadest bauen
+-Pfade bauen
 
 -Städte bauen
 
@@ -52,7 +52,17 @@ Assets:
 
 -Well
 
+-Stands
+
+-Tends
+
+-Fireplaces
+
+-Horse holders xD
+
 -Cellar
+
+-Torch and Candle holder
 
 -Broken versions of everything
 
@@ -62,12 +72,32 @@ Assets:
 
 -Planks
 
--
+-Barrles
+
+-Chests
+
+-Boxes(wooden)
 
 -Items
 
 -Clutter Items (Bowls, Cups, Cuttlery)
 
+-Knifes
+
+-Candles
+
 -Tempel-Parts
 
--Wagon?
+-The Object
+
+-Walls
+
+-Stones
+
+-Statuen
+
+Code:
+
+-Mapverbindung und Generierung
+
+-Kontrollierte zufälligkeit?!

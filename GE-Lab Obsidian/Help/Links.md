@@ -1,6 +1,9 @@
 **Github**
 https://github.com/khofele/GE-Lab-Ouroburos
 
+**Github-Plugin**
+https://github.com/SRombauts/UEGitPlugin
+
 **Trello**
 https://trello.com/b/RTWxm1gJ/ge-lab
 

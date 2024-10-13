@@ -7,9 +7,9 @@
 - kommenden Sprint planen
 - Fragen und offene Punkte
 
-**Notizen**
+**Notizen/Ergebnisse**
 - Meilenstein im nächsten Sprint Planning planen (19.10.2024)
-- Projektsetup und Setup für Git-Plugin --> Projekt in Github gepusht
+- Projektsetup und Setup für Git-Plugin bei allen --> Projekt in Github gepusht
 - gitignore aktualisiert
 - Fragen beantwortet
 

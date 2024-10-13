@@ -17,11 +17,13 @@
 ### Meeting 16.10.2024 (Zwischenmeeting)
 **Agenda**
 - Zwischenstand (Was ist bisher passiert? Wo wird Hilfe benötigt? etc.)
+- Tasks reviewen
 
 --------------------------------------------------------------------------
 ### Meeting 19.10.2024 (Sprint Planning)
 **Agenda**
 - Meilensteine festlegen
-- kommenden Sprint 
+- kommenden Sprint planen
+- Tasks reviewen
 
 --------------------------------------------------------------------------

@@ -12,6 +12,8 @@
 - Projektsetup und Setup für Git-Plugin bei allen --> Projekt in Github gepusht
 - gitignore aktualisiert
 - Fragen beantwortet
+- Branches erstellt
+- Tasks sortieren am Montag 14.10.2024
 
 --------------------------------------------------------------------------
 ### Meeting 16.10.2024 (Zwischenmeeting)

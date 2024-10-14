@@ -16,3 +16,7 @@
 	- Sonne macht Robin
 	- Kämpfe dauern AnzahlRunden/2 Ticks
 		- Runde = jeder Charakter und jeder Gegner greift einmal an/agiert
+
+- sobald Mapstück betreten wird, werden zwei anschließende Map-Stücke geladen und vorherige Map-Stücke werden inaktiv gesetzt/gelöscht
+	- Löschen ist aber erstmal Nice-To-Have, wichtiger ist der Ladevorgang
+	- kontrollierte Zufälligkeit nur, wenn es nicht zu lange dauert

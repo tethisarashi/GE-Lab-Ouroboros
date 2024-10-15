@@ -76,5 +76,5 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # to exclude Obsidian workspace settings (including plugin and hotkey configurations)
-GE-Lab Obsidian/.obsidian/*
-GE-Lab Obsidian/.obsidian/workspace.json
+/GE-Lab Obsidian/.obsidian/*
+/GE-Lab Obsidian/.obsidian/workspace.json

@@ -1,4 +1,6 @@
 ALLES AUF ENGLISCH!
+- Trupp Mitglieder -> Char
+- Wagen -> Cart
 ## Commit-Messages
 [Aktion] genauere Beschreibung + wo
 

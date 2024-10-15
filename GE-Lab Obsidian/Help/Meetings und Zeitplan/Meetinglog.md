@@ -12,6 +12,16 @@
 - Projektsetup und Setup für Git-Plugin bei allen --> Projekt in Github gepusht
 - gitignore aktualisiert
 - Fragen beantwortet
+- Branches erstellt
+- Tasks sortieren am Montag 14.10.2024
+
+--------------------------------------------------------------------------
+### Meeting 14.10.2024 (Bühling)
+**Notizen/Feedback**
+- Zufälligkeit der Maps erstmal rausnehmen und lieber auf Hauptfunktionalität konzentrieren
+- Kern des Spiels soll gut funktionieren --> dann können wir immernoch die Map random generieren
+- Ideen sind gut
+- will in 2 Wochen fahrenden Wagen sehen
 
 --------------------------------------------------------------------------
 ### Meeting 16.10.2024 (Zwischenmeeting)

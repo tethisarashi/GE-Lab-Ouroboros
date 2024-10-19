@@ -34,11 +34,12 @@
 --------------------------------------------------------------------------
 ### Meeting 19.10.2024 (Sprint Planning)
 **Agenda**
-- Meilensteine festlegen
 - kommenden Sprint planen
 - Tasks reviewen
 
 **Notizen/Ergebnisse**
+- Tasks reviewed --> alle erfolgreich
+- weniger Tasks pro Sprint --> etwas übernommen, weniger geschafft als geplant
 
 --------------------------------------------------------------------------
 ### Meeting 23.10.2024 (Zwischenmeeting)
@@ -51,6 +52,7 @@
 --------------------------------------------------------------------------
 ### Meeting 27.10.2024 (Sprint Planning)
 **Agenda**
+- Meilensteine festlegen
 - kommenden Sprint planen
 - Tasks reviewen
 

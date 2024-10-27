@@ -44,17 +44,12 @@
 - Meilenstein geplant
 
 --------------------------------------------------------------------------
-### Meeting 23.10.2024 (Zwischenmeeting)
-**Agenda**
-- Zwischenstand (Was ist bisher passiert? Wo wird Hilfe benötigt? etc.)
-- Tasks reviewen
-
-**Notizen/Ergebnisse**
-
---------------------------------------------------------------------------
 ### Meeting 27.10.2024 (Sprint Planning)
 **Agenda**
 - kommenden Sprint planen
 - Tasks reviewen
+- Stand der Dinge --> Probleme? Fragen? Meilenstein machbar?
+- Fragen, offene Punkte
 
 **Notizen/Ergebnisse**
+- Meilenstein machbar

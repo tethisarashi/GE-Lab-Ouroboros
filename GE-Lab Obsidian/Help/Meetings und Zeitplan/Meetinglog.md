@@ -53,3 +53,22 @@
 
 **Notizen/Ergebnisse**
 - Meilenstein machbar
+
+--------------------------------------------------------------------------
+### Meeting 30.10.2024 (Zwischenmeeting)
+**Agenda**
+- Zwischenstand (Was ist bisher passiert? Wo wird Hilfe benötigt? etc.)
+- Tasks reviewen
+
+**Notizen/Ergebnisse**
+
+--------------------------------------------------------------------------
+### Meeting 03.11.2024 (Sprint Planning)
+**Agenda**
+- Meilenstein Review
+- Merge in Master
+- kommenden Sprint planen
+- Tasks reviewen
+- Meilensteine festlegen
+
+**Notizen/Ergebnisse**

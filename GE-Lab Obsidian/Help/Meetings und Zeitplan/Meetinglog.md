@@ -69,6 +69,8 @@
 - Merge in Master
 - kommenden Sprint planen
 - Tasks reviewen
-- Meilensteine festlegen
 
 **Notizen/Ergebnisse**
+- Meilenstein erreichbar, noch 1-2 Tage nötig
+- Sounds geplant
+- Merge in Master am 05. oder 06.11.

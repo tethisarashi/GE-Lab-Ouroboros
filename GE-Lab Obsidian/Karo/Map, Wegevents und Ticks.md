@@ -20,3 +20,6 @@
 - sobald Mapstück betreten wird, werden zwei anschließende Map-Stücke geladen und vorherige Map-Stücke werden inaktiv gesetzt/gelöscht
 	- Löschen ist aber erstmal Nice-To-Have, wichtiger ist der Ladevorgang
 	- kontrollierte Zufälligkeit nur, wenn es nicht zu lange dauert
+
+
+

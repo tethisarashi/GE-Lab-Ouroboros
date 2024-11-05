@@ -7,3 +7,6 @@
 	- noch nie gemacht
 	- Konflikte sollen möglichst vermieden werden --> Git-Workflow verwenden
 	- Reinfinden in den Workflow mit Git und Unreal Engine
+- Enhanced Input System
+- Refactoring mit Level-Blueprint
+- 

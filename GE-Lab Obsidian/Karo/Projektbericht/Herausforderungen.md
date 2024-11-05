@@ -7,3 +7,8 @@
 	- noch nie gemacht
 	- Konflikte sollen möglichst vermieden werden --> Git-Workflow verwenden
 	- Reinfinden in den Workflow mit Git und Unreal Engine
+- Enhanced Input System 
+	- Controller für Cart selbst geschrieben und dabei Enhanced Input System verwendet und implementiert --> hat nicht direkt funktioniert, jetzt aber sehr nützlich und gut verständlich
+- Refactoring mit Level-Blueprint
+- Controller für Cart 
+	- nicht nach Tutorial gearbeitet, sondern selbst geschrieben und überlegt --> erstes größeres Stück Code mit Blueprints

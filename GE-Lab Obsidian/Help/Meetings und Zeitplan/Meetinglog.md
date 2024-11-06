@@ -82,3 +82,4 @@
 - Größenverhältnisse der Models besprechen 
 
 **Notizen/Ergebnisse**
+- Brainstorming Sounds

@@ -1,4 +1,5 @@
 - Projekt über Fork geben
+- mit Steffen noch klären, ob er Sounds in UE-Projekt einpflegt
 
 ### Soundliste
 
@@ -41,3 +42,91 @@
 | Mensch schleichen                             | NPC, im Hintergrund                                      | Natalie           |
 | Mensch murmeln                                | NPC, Zaubersprüche aus Buch versuchen                    | Natalie           |
 | Münzen klimpern                               | NPC, Geld zählen                                         | Natalie           |
+
+## Brainstorming
+**Reihenfolge**
+--> Overworld, Cart-Mode als erstes
+--> Musik
+--> Stadt
+--> Handel/Dialog
+--> UI
+--> Kampf-, Gegner- und Waffensounds
+--> POI
+##### Cart-Mode (Fahren, Ressourcenmanagement, ...)
+- Fahrt
+	- Räder auf Erde
+	- Räder auf Brücke (Steinbrücken, Holzbrücken)
+	- Hufe auf Erde
+	- Hufe auf Brücke (Steinbrücke, Holzbrücke)
+	- Wagen rumpelt
+		- Töpfe klimpern
+		- Knarzen von Holz
+		- Metall-Quietschen
+- Wagen steht
+	- Pferd schnauft
+- Losfahren
+	- Peitschen
+	- "Hü"-Sound vom "Kutscher"
+- Anhalten
+	- "Ho"-Sound vom "Kutscher"
+##### Kampf
+- Bogen schnalzen und spannen (ein Sound!)
+- Schwertschlag --> "Wusch"
+- Schlag auf Schild --> "Donk"
+- Schadensounds (Schaden bekommen)
+	- Gegner nehmen Schaden entsprechend ihrer "Klasse"
+		- Banditen
+		- Wolf
+		- Pflanze
+		- Humanoider Mutant
+		- Mutant Ziege-Huhn
+	- Trupp Schadensounds humanoid
+- Angriffsound (Angriff ausführen) --> Sound abhängig nach Waffe (falls Gegner eine Waffe hat, gibt auch nichtmenschliche Gegner)
+	- Gegner (Steffen Gegner zeigen, bevor er Sounds dazu macht)
+		- Waffensounds (Schwert, Schild, Bogen)
+		- Wolf heult
+		- Wolf knurrt
+		- Wolf beißt
+		- Pflanze peitscht
+		- Pflanze tiefes Knarzen --> siehe Ents
+		- Pflanze aggressives Blätterrascheln --> Grsssch 
+		- Ziege mäht
+		- Huhn gackert
+		- Ziege mäht aggressiv
+		- Huhn gackert aggressiv
+		- Huhn-Ziege-Mutant Mischung aus Mähen und Gackern verzerrt
+		- Humanoider Mutant keucht (wie TLOU Stalker/Runner)
+		- Humanoider Mutant schreit (wie TLOU Stalker/Runner)
+		- Humanoider Mutant keucht (wie TLOU Stalker/Runner) aggressiver als bisher
+		- Humanoider Mutant schreit (wie TLOU Stalker/Runner) aggressiver als bisher
+	- Trupp
+##### Stadt
+##### POI
+##### Handel/Dialog
+##### Overworld
+- Wind in Blättern (Bäume)
+- Vogelgezwitscher
+- Wasser plätschert (Bach)
+- Äste knacken (Ast auf Boden, man tritt drauf --> wie beim durch Wald laufen)
+- Bäume knarzen 
+- Gebüsch knackt und raschelt (wie wenn Tier wegläuft)
+- Krähen krähen
+##### Trupp
+##### UI
+- Items aufheben (in Inventar)
+- Items ablegen (in Inventar)
+- Bestätigen (Knopf-Sound)
+- Inventar öffnen, z.B. Truhe-geht-auf-Sound (Knarz) --> im Cart-Mode
+- Inventar schließen, z.B. Truhe-schließt-Sound (Plonk) --> im Cart-Mode
+- Loot öffnen
+	- Truhe öffnen
+	- Kisten öffnen
+	- Sack öffnen
+	- Mittelgroße Steine beiseite schieben --> Loot  darunter
+- Charakter isst --> Schmatzen, o.Ä.
+- Charakter trinkt --> Runterschlucken
+- Charakter heilt sich --> Heilsound
+- Waffe ausrüsten, z.B. Klink 
+- Item aus Inventar wegwerfen --> z.B. dumpfes Klonk
+- Items verwerten --> Komplexe Objekte zerteilen in Handwerkswaren
+##### Musik

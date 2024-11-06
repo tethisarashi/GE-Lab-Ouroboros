@@ -74,3 +74,11 @@
 - Meilenstein erreichbar, noch 1-2 Tage nötig
 - Sounds geplant
 - Merge in Master am 05. oder 06.11.
+
+--------------------------------------------------------------------------
+### Meeting 06.11.2024 (Zwischenmeeting)
+**Agenda**
+- Soundliste besprechen und finalisieren
+- Größenverhältnisse der Models besprechen 
+
+**Notizen/Ergebnisse**

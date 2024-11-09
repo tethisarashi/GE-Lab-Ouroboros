@@ -83,3 +83,14 @@
 
 **Notizen/Ergebnisse**
 - Brainstorming Sounds
+
+--------------------------------------------------------------------------
+### Meeting 10.11.2024 (Sprint Planning)
+ - Meilenstein Review
+- Merge in Master/alles integrieren für erste kleine Demo
+- kommenden Sprint planen
+- Tasks reviewen
+- Soundliste abgeben
+- Offene Punkte/Fragen
+
+**Notizen/Ergebnisse**

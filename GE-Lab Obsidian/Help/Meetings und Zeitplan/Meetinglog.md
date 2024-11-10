@@ -94,3 +94,6 @@
 - Offene Punkte/Fragen
 
 **Notizen/Ergebnisse**
+- Meilenstein erreicht
+- Soundliste abgegeben
+- alle funktionierenden Beestandteile in develop und dann in master

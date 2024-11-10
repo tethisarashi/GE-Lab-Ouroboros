@@ -15,3 +15,12 @@ Anfang Dezember: Meeting zur Planung der zweiten Hälfte (Dez, Jan) --> persönl
 | Karo     | - Spline entlang fahren<br>- Steuerung WASD           |
 
 Zusammenfassung: ein funktionales Level
+
+## 2. Meilenstein bis 01.12.2024
+
+| **Name** | **Ziel**                                              |
+| -------- | ----------------------------------------------------- |
+| Robin    | |
+| Ksenia   |                               |
+| Natalie  |    |
+| Karo     |           |

@@ -10,5 +10,8 @@
 - Enhanced Input System 
 	- Controller für Cart selbst geschrieben und dabei Enhanced Input System verwendet und implementiert --> hat nicht direkt funktioniert, jetzt aber sehr nützlich und gut verständlich
 - Refactoring mit Level-Blueprint
-- Controller für Cart 
+- Controller für Cart/Steuerung von Cart
 	- nicht nach Tutorial gearbeitet, sondern selbst geschrieben und überlegt --> erstes größeres Stück Code mit Blueprints
+- Tick-System
+	- war erst frame-abhängig (EvenTick und Modulo-Rechnung)
+- Integration aller Bestandteile in erste Demo

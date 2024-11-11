@@ -83,3 +83,28 @@
 
 **Notizen/Ergebnisse**
 - Brainstorming Sounds
+
+--------------------------------------------------------------------------
+### Meeting 10.11.2024 (Sprint Planning)
+ - Meilenstein Review
+- Merge in Master/alles integrieren für erste kleine Demo
+- kommenden Sprint planen
+- Tasks reviewen
+- Soundliste abgeben
+- Offene Punkte/Fragen
+
+**Notizen/Ergebnisse**
+- Meilenstein erreicht
+- Soundliste abgegeben
+- alle funktionierenden Beestandteile in develop und dann in master
+
+--------------------------------------------------------------------------
+### Meeting 11.11.2024 (Bühling)
+**Notizen/Feedback**
+- Quellenangaben
+	- Quellenangaben von allem, wo man schöpferische Inhalte rausgenommen wurden
+	- Unreal-Dokumentation muss nicht für jede Node angegeben werden
+		- "Ich habe die Lerp-Node benutzt und muss jetzt aber nicht extra die Dokumentation für die Lerp-Node angeben"
+		- z.B. Kern der Mechanik basiert auf Quelle XY, das und das ist meine Idee und mein Code/Konzept
+	- es geht im Bericht auch eher um die Idee bzw. das Konzept als um jeden einzelnen Methodenaufruf im Code
+- Fokus auf Gameplay

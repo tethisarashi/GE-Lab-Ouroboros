@@ -14,4 +14,7 @@
 	- nicht nach Tutorial gearbeitet, sondern selbst geschrieben und überlegt --> erstes größeres Stück Code mit Blueprints
 - Tick-System
 	- war erst frame-abhängig (EvenTick und Modulo-Rechnung)
-- Integration aller Bestandteile in erste Demo
+- Integration aller Bestandteile in erste Demo --> war doch keine Herausforderung, lief weitestgehend smooth
+- Kommunikation innerhalb des Teams
+	- Projektinhalte und -entscheidungen klar kommunizieren
+	- mit einzelnen Teammitgliedern

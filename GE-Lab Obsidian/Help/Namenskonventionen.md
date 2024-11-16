@@ -1,6 +1,8 @@
 ALLES AUF ENGLISCH!
 - Trupp Mitglieder -> Char
 - Wagen -> Cart
+- Huhn + Ziege Mutant -> Hybrid [1-3]
+- Menschlicher Mutant -> Mutant [1-3]
 ## Commit-Messages
 [Aktion] genauere Beschreibung + wo
 

@@ -18,3 +18,5 @@
 - Kommunikation innerhalb des Teams
 	- Projektinhalte und -entscheidungen klar kommunizieren
 	- mit einzelnen Teammitgliedern
+- Arbeiten mit Splines
+	- Zugriff und Verwenden von diesen sowohl in PCG als auch Cart-Movement

@@ -86,7 +86,7 @@
 
 --------------------------------------------------------------------------
 ### Meeting 10.11.2024 (Sprint Planning)
- - Meilenstein Review
+- Meilenstein Review
 - Merge in Master/alles integrieren für erste kleine Demo
 - kommenden Sprint planen
 - Tasks reviewen
@@ -108,3 +108,14 @@
 		- z.B. Kern der Mechanik basiert auf Quelle XY, das und das ist meine Idee und mein Code/Konzept
 	- es geht im Bericht auch eher um die Idee bzw. das Konzept als um jeden einzelnen Methodenaufruf im Code
 - Fokus auf Gameplay
+
+--------------------------------------------------------------------------
+### Meeting 17.11.2024 (Sprint Planning)
+- kommenden Sprint planen
+- Tasks reviewen
+- Bedürfnisse und Ressourcen
+- Offene Punkte/Fragen
+
+**Notizen/Ergebnisse**
+- Nice-To-Have-Liste strukturiert
+- Basics für Items, Ressourcen und deren Zusammenspiel besprochen --> siehe Liste in Obsidian

@@ -9,6 +9,7 @@
 - Wenn alle aus Gegnerteam tot (sofern es mehrere Gegner im aktuellen Kampf gibt): Alle Überlebenden despawnen bzw. in Karren zurück spawnen, Tickcounter entsprechend erhöhen, Kamera wieder auf Third-Person-Modus, auf W weiterfahren können (bool isFighting, um sämtliche Fahrtaktionen zu blockieren)
 - Falls Auswählen der einzelnen Charaktere aus dem Trupp zu umständlich ist, Trupp sowie Gegner Initiative geben und diese auch für die Entscheidung wer anfängt verwenden --> d.h. Durchschnittsinitiative von Trupp und Gegnerteam berechnen und Truppmitglieder nicht auswählen sondern auch nacheinander reihum drannehmen 
 ### Essenzielle Schritte:
+- Charakter-Setup --> anderer Task!
 - Loop für Hin und Her im Kampf (Länge einer Runde = max(Anzahl Truppmitglieder, Anzahl Gegner) lang, d. h. Rundencounter % Rundenlänge
 - Mechanik für hin und her
 - Mechanik für Auswählen der Charaktere, die von Gegner angegriffen werden sollen --> möglichst random

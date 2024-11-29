@@ -119,3 +119,9 @@
 **Notizen/Ergebnisse**
 - Nice-To-Have-Liste strukturiert
 - Basics für Items, Ressourcen und deren Zusammenspiel besprochen --> siehe Liste in Obsidian
+
+--------------------------------------------------------------------------
+### Meeting 25.11.2024 (Bühling)
+**Notizen/Feedback**
+- Bald Integration/Zusammenführen aller Bestandteile
+- Fortschritt passt soweit

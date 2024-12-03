@@ -125,3 +125,13 @@
 **Notizen/Feedback**
 - Bald Integration/Zusammenführen aller Bestandteile
 - Fortschritt passt soweit
+
+--------------------------------------------------------------------------
+### Meeting 07.12.2024 (Sprint Planning)
+- kommenden Sprint planen
+- Tasks reviewen
+- Stand der Dinge
+- Abgabe
+- Offene Punkte/Fragen
+
+**Notizen/Ergebnisse**

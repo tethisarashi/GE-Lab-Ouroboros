@@ -20,3 +20,5 @@
 	- mit einzelnen Teammitgliedern
 - Arbeiten mit Splines
 	- Zugriff und Verwenden von diesen sowohl in PCG als auch Cart-Movement
+- Kampf
+- Mehr Tasks als gedacht --> Tasks übernehmen

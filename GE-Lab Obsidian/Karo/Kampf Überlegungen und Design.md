@@ -37,3 +37,17 @@
 ### Scribbles
 
 ![[Pasted image 20241121185323.png]]![[Pasted image 20241121185341.png]]
+
+
+![[WhatsApp Bild 2024-11-24 um 22.50.10_51767092.jpg]]
+
+### Änderungen (Jetzt-Zustand)
+--> neuer Kampf-Loop: alle Charaktere können eine Aktion und einen Gegner wählen --> dann bestätigen und die Aktionen werden auf einmal ausgeführt
+--> Änderung der Kampflogik
+
+
+### Herausforderungen
+- Kommunikationsprobleme im Feedback für den Kampf
+- UI-Einarbeitung --> nicht mein Aufgabenbereich
+- Referenzen gingen verloren
+- großes System

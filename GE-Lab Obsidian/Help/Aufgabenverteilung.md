@@ -5,7 +5,7 @@
 | 3D-Modelle (Welt)                                                         | Robin   | Umgebung, Natur, Räume, …  | Blender  <br>ggf. UE für Texturen                    |
 | Animationen                                                               | Natalie |                            | Blender oder UE<br><br>→ in UE einpflegen (mit Karo) |
 | Gameplay                                                                  | Karo    |                            | UE  <br>→ Animationen triggern (mit Natalie)         |
-| UI-Program-mierung                                                        | Ksenia  |                            | UE                                                   |
+| UI-Programmierung                                                         | Ksenia  |                            | UE                                                   |
 | UI-Design                                                                 | Ksenia  |                            |                                                      |
 | UI Menüs                                                                  | Ksenia  |                            | UE                                                   |
 | Map                                                                       | Robin   |                            | UE                                                   |

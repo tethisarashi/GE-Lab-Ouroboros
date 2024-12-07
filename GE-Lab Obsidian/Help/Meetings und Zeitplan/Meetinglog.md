@@ -135,3 +135,12 @@
 - Offene Punkte/Fragen
 
 **Notizen/Ergebnisse**
+- Fortschritt passt
+- Bools für Animationen einbauen
+- Reviews aufgeteilt
+- Meilensteine aussortiert
+- Vorgehen für Abgabe besprochen
+  	- Google Slides
+  	- weitere Planung wenn Rahmenbedingungen klar
+  	- Natalie Poster
+  	- Karo Video

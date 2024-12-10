@@ -1,6 +1,8 @@
 - Projekt über Fork geben
-- mit Steffen noch klären, ob er Sounds in UE-Projekt einpflegt
-
+- mit Steffen noch klären, ob er Sounds in UE-Projekt einpflegt --> Robin und Karen fügen Sounds ein
+       --> Robin: Sounds in Welt
+       --> Karen: Sounds in Code
+  
 #### Reihenfolge für Sounds
 1) Overworld und Cart-Mode
 2) Musik
@@ -40,8 +42,8 @@
 ##### Musik
 | **Sound + Beschreibung**                                                                                                                                                                                                                                                                                                                                                                                                                                                              | **Verantwortlicher**         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| Kampfmusik: "aggressive", mittelalterliche Musik mit Gitarre und Tamburin<br><br>- Referenz, KEINE VORLAGE, schon fertige Musik nicht wegwerfen: https://www.youtube.com/watch?v=U4GmjvjB2Rw&list=PL7FVc5pl0q2MSCbRTByCy1Wy4N6ITcacy&index=2                                                                                                                                                                                                                                          | Robin, Natalie, Ksenia, Karo |
-| Overworld-/Reisemusik:<br>- Hintergrundmusik für Reise, melancholische Musik<br><br>Stadtmusik:<br>- eher ruhig, Gefühl von Ausruhen<br><br>- Referenz, KEINE VORLAGE, schon fertige Musik nicht wegwerfen: https://www.youtube.com/watch?v=GVjwJxYDJUA<br>- Referenz, KEINE VORLAGE, schon fertige Musik nicht wegwerfen: https://www.youtube.com/watch?v=tGl4FLMp2Hg<br>- Referenz, KEINE VORLAGE, schon fertige Musik nicht wegwerfen: https://www.youtube.com/watch?v=8oCO_yGtO40 | Robin, Natalie, Ksenia, Karo |
+| Kampfmusik: "aggressive", mittelalterliche Musik mit Gitarre und Tamburin<br><br>- Referenz, KEINE VORLAGE, schon fertige Musik nicht wegwerfen: https://www.youtube.com/watch?v=U4GmjvjB2Rw&list=PL7FVc5pl0q2MSCbRTByCy1Wy4N6ITcacy&index=2                                                                                                                                                                                                                                          | Robin, Natalie, Ksenia, Karen |
+| Overworld-/Reisemusik:<br>- Hintergrundmusik für Reise, melancholische Musik<br><br>Stadtmusik:<br>- eher ruhig, Gefühl von Ausruhen<br><br>- Referenz, KEINE VORLAGE, schon fertige Musik nicht wegwerfen: https://www.youtube.com/watch?v=GVjwJxYDJUA<br>- Referenz, KEINE VORLAGE, schon fertige Musik nicht wegwerfen: https://www.youtube.com/watch?v=tGl4FLMp2Hg<br>- Referenz, KEINE VORLAGE, schon fertige Musik nicht wegwerfen: https://www.youtube.com/watch?v=8oCO_yGtO40 | Robin, Natalie, Ksenia, Karen |
 
 ##### Stadt
 | **Sound + Beschreibung**                                                                    | **Verantwortlicher** |
@@ -51,33 +53,33 @@
 ##### Handel
 | **Sound + Beschreibung**                | **Verantwortlicher** |
 | --------------------------------------- | -------------------- |
-| Gold klimpert --> für Handel bestätigen | Ksenia               |
+| Gold klimpert --> für Handel bestätigen | Karen               |
 ##### Dialog
 | **Sound + Beschreibung**                  | **Verantwortlicher** |
 | ----------------------------------------- | -------------------- |
-| Schriftrolle rollt auf                    | Ksenia               |
-| Dadaaaa-Sound, wenn Quest angenommen wird | Ksenia               |
-| Neutrales Murmeln für Dialog              | Ksenia               |
-| Positives Murmeln für Dialog              | Ksenia               |
-| Negatives Murmeln für Dialog              | Ksenia               |
+| Schriftrolle rollt auf                    | Karen               |
+| Dadaaaa-Sound, wenn Quest angenommen wird | Karen               |
+| Neutrales Murmeln für Dialog              | Karen               |
+| Positives Murmeln für Dialog              | Karen              |
+| Negatives Murmeln für Dialog              | Karen               |
 ##### UI
 | **Sound + Beschreibung**                                               | **Verantwortlicher** |
 | ---------------------------------------------------------------------- | -------------------- |
-| Items aufheben (in Inventar)                                           | Ksenia               |
-| Items ablegen (in Inventar)                                            | Ksenia               |
-| Bestätigen (Knopf-Sound)                                               | Ksenia               |
-| Inventar öffnen, z.B. Truhe-geht-auf-Sound (Knarz) --> im Cart-Mode    | Ksenia               |
-| Inventar schließen, z.B. Truhe-schließt-Sound (Plonk) --> im Cart-Mode | Ksenia               |
-| Loot: Truhe öffnen                                                     | Ksenia               |
-| Loot: Kisten öffnen                                                    | Ksenia               |
-| Loot: Sack öffnen                                                      | Ksenia               |
-| Loot: Mittelgroße Steine beiseite schieben                             | Ksenia               |
-| Charakter isst --> Schmatzen, o.Ä.                                     | Ksenia               |
-| Charakter trinkt --> Runterschlucken                                   | Ksenia               |
-| Charakter heilt sich --> Heilsound                                     | Ksenia               |
-| Waffe ausrüsten, z.B. Klink                                            | Ksenia               |
-| Item aus Inventar wegwerfen --> z.B. dumpfes Klonk                     | Ksenia               |
-| Items verwerten --> Komplexe Objekte zerteilen in Handwerkswaren       | Ksenia               |
+| Items aufheben (in Inventar)                                           | Karen               |
+| Items ablegen (in Inventar)                                            | Karen               |
+| Bestätigen (Knopf-Sound)                                               | Karen               |
+| Inventar öffnen, z.B. Truhe-geht-auf-Sound (Knarz) --> im Cart-Mode    | Karen               |
+| Inventar schließen, z.B. Truhe-schließt-Sound (Plonk) --> im Cart-Mode | Karen               |
+| Loot: Truhe öffnen                                                     | Karen               |
+| Loot: Kisten öffnen                                                    | Karen               |
+| Loot: Sack öffnen                                                      | Karen               |
+| Loot: Mittelgroße Steine beiseite schieben                             | Karen               |
+| Charakter isst --> Schmatzen, o.Ä.                                     | Karen               |
+| Charakter trinkt --> Runterschlucken                                   | Karen               |
+| Charakter heilt sich --> Heilsound                                     | Karen               |
+| Waffe ausrüsten, z.B. Klink                                            | Karen               |
+| Item aus Inventar wegwerfen --> z.B. dumpfes Klonk                     | Karen               |
+| Items verwerten --> Komplexe Objekte zerteilen in Handwerkswaren       | Karen               |
 ##### Kampf-, Gegner- und Waffensounds
 | **Sound + Beschreibung**                                                                                                                                                                                  | **Verantwortlicher** |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |

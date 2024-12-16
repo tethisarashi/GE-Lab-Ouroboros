@@ -21,5 +21,7 @@
 | Array of Levelnames                                                           | https://www.reddit.com/r/unrealengine/comments/ugx1ng/array_of_level_names/                                                                                | 02.12.2024 | 16.33 Uhr   |               |
 | Maus anzeigen                                                                 | https://dev.epicgames.com/documentation/en-us/unreal-engine/mouse-control-setup?application_version=4.27                                                   | 06.12.2024 | 22.06 Uhr   |               |
 | For Loop With Delay                                                           | https://forums.unrealengine.com/t/for-loop-bp-not-working-with-delay-bp/135853                                                                             | 07.12.2024 | 21.22 Uhr   |               |
+| Game Instance + Ablauf                                                        | https://www.youtube.com/watch?v=b8LqTF6qRmQ                                                                                                                | 15.12.2024 | 0.49 Uhr    |               |
+|                                                                               |                                                                                                                                                            |            |             |               |
 
 

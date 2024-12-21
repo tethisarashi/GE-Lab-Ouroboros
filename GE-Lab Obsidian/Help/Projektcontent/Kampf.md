@@ -31,6 +31,6 @@
 | Sword     | 13     | 30           | 3        | 7 	    | 4	           | 3x1 / I+   | 55G   | One Hand, melee, sharp, easy to use                                      |
 *Anmerkungen:*
 - alles vorläufig und nicht balanced
-- Cooldown sind Zahlen zum Verhältnis, nicht Absolute  Rundenzahlen (2 ist doppelt so lange wie 1)
+- Cooldown sind Zahlen zum Verhältnis, nicht Absolute  Rundenzahlen (1 = 3 Runden Cooldown, 2 = 5 Runden Cooldown, ...)
 - bei Schild ist Angriff auch = Verteidigung
 - Einige Eigenschaften (wie in Beschreibung) sind als Ausblick für fertiges Spiel, nicht für die Demo

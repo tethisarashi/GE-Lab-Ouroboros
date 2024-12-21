@@ -18,7 +18,7 @@
 **Itemliste:Weapons**
 
 
-| Weapon    | Attack | heavy Attack | Cooldown | Size/Shape | Price | Description                                                              |
+| Weapon    | Attack | Special Attack | Cooldown | Size/Shape | Price | Description                                                              |
 | --------- | ------ | ------------ | -------- | ---------- | ----- | ------------------------------------------------------------------------ |
 | Axe       | 11     | 22           | 3        | 3x1 / L    | 45G   | One Hand, melee, sharp, easy to use, most effective with Peasant         |
 | Bow       | 10     | 20           | 2        | 3x2 / +    | 42G   | Two Hand, ranged, fast, most effective with Bandit                       |

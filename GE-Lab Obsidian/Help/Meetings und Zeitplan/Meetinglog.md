@@ -155,3 +155,12 @@
 **Notizen/Ergebnisse**
 - überall Fortschritt
 - Animationen Fix --> custom Events einfügen
+
+--------------------------------------------------------------------------
+### Meeting 30.12.2024 (Sprint Planning)
+- kommenden Sprint planen
+- Tasks reviewen
+- Stand der Dinge
+- Offene Punkte/Fragen
+
+**Notizen/Ergebnisse**

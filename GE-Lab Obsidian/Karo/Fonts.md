@@ -1,4 +1,7 @@
-https://www.dafont.com/de/augusta.font?text=Supercoole+Beispielschrift+f%FCr+Ouroboros&back=theme
+Ausgewählt: https://www.dafont.com/de/augusta.font?text=Supercoole+Beispielschrift+f%FCr+Ouroboros&back=theme
+
+Zur Verwendbarkeit: https://www.dafont.com/de/faq.php#copyright 29.12.2024, 16.50 Uhr
+
 
 https://www.dafont.com/de/medieval-sharp.font?text=Supercoole+Beispielschrift+f%FCr+Ouroboros
 

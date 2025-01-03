@@ -26,5 +26,6 @@
 | Slate Brush                                                                   | https://www.youtube.com/watch?v=kYxGC0WV0Uk                                                                                                                | 29.12.2024 | 22.03 Uhr   |               |
 | Inventar Tutorial 1/4                                                         | https://www.youtube.com/watch?v=4CjpBoKl6s8                                                                                                                | 29.12.2024 | 22.04 Uhr   |               |
 | Set Input Mode Game and UI                                                    | https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Input/SetInputModeGameAndUI                                                       | 29.12.2024 | 23.47 Uhr   |               |
+| Pure Functions                                                                | https://www.reddit.com/r/unrealengine/comments/1446vgo/what_exactly_can_and_cannot_be_a_pure_function/?rdt=58968                                           | 03.01.205  | 02.56 Uhr   |               |
 
 

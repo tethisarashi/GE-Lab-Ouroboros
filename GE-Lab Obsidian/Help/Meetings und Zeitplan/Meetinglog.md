@@ -144,3 +144,14 @@
   	- weitere Planung wenn Rahmenbedingungen klar
   	- Natalie Poster
   	- Karo Video
+
+--------------------------------------------------------------------------
+### Meeting 15.12.2024 (Sprint Planning)
+- kommenden Sprint planen
+- Tasks reviewen
+- Stand der Dinge
+- Offene Punkte/Fragen
+
+**Notizen/Ergebnisse**
+- überall Fortschritt
+- Animationen Fix --> custom Events einfügen

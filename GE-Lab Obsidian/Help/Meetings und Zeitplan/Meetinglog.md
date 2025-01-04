@@ -164,3 +164,7 @@
 - Offene Punkte/Fragen
 
 **Notizen/Ergebnisse**
+- Poster in Progress
+- Projektprogress siehe Trello
+- Icons für Kampf fertig
+- Maps in Progress

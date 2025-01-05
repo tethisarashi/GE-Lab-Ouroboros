@@ -165,6 +165,20 @@
 
 **Notizen/Ergebnisse**
 - Poster in Progress
-- Projektprogress siehe Trello
+- Projekt-/Gameplayprogress siehe Trello
 - Icons für Kampf fertig
 - Maps in Progress
+
+--------------------------------------------------------------------------
+### Meeting 05.01.2025 (Sprint Planning)
+- kommenden Sprint planen
+- Stand der Dinge
+- Abgabe, Präsentation
+- Offene Punkte/Fragen
+
+**Notizen/Ergebnisse**
+- Poster fertig
+- Animationen fertig
+- Icons in Progress
+- Inventar in Progress
+- Items und Ressourcenmanagement in Progress

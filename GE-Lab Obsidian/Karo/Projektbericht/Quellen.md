@@ -30,5 +30,6 @@
 | Inventar Tutorial 2/4                                                         | https://www.youtube.com/watch?v=sWSECrtUu_g                                                                                                                | 03.01.2025 | 14.52 Uhr   |               |
 | Inventar Tutorial 3/4                                                         | https://www.youtube.com/watch?v=pG7KFaCwvJw                                                                                                                | 03.01.2025 | 14.53 Uhr   |               |
 | Inventar Tutorial 4/4                                                         | https://www.youtube.com/watch?v=4NpcisVVhr0                                                                                                                | 03.01.2025 | 14.53 Uhr   |               |
+| GameMode ändern während der Laufzeit                                          | https://www.youtube.com/watch?v=EUgGYZ3-bDU                                                                                                                | 06.01.2025 | 17.50 Uhr   |               |
 
 

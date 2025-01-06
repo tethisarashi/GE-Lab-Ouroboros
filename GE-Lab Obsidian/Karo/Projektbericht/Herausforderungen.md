@@ -23,3 +23,8 @@
 	- Zugriff und Verwenden von diesen sowohl in PCG als auch Cart-Movement
 - Kampf
 - Mehr Tasks als gedacht --> Tasks übernehmen
+- Inventar übernehmen --> nur noch ein Coder!! muss Arbeit einer Person komplett auffangen
+- Arbeiten mit Gameinstance --> Items, Charakterwerte etc. in neue Level übernehmen
+
+# Known-Bugs
+- Animationblueprint wirft Bugs am Anfang --> Natalie

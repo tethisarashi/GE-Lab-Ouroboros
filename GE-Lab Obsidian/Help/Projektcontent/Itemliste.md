@@ -1,7 +1,7 @@
 ### Item Liste
 
 - Währung heißt Groschen
-- Merchant-Preis 1.5 mal so teuer wie Playerpeis
+- Merchant-Preis 2 mal so teuer wie Playerpeis
 
 Nahrung:
 

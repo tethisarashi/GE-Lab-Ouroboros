@@ -25,6 +25,7 @@
 - Mehr Tasks als gedacht --> Tasks übernehmen
 - Inventar übernehmen --> nur noch ein Coder!! muss Arbeit einer Person komplett auffangen
 - Arbeiten mit Gameinstance --> Items, Charakterwerte etc. in neue Level übernehmen
+- viel zu spontane Änderungswünsche
 
 # Known-Bugs
 - Animationblueprint wirft Bugs am Anfang --> Natalie

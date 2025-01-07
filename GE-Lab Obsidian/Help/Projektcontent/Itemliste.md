@@ -5,9 +5,8 @@
 
 Nahrung:
 
-|                           |                 |        |                                                                                   |                      |
+| Objekt                    | Werte           | Kosten (Playerpreis) | Beschreibung                                                                      | Nice to Have         |
 | ------------------------- | --------------- | ------ | --------------------------------------------------------------------------------- | -------------------- |
-| Objekt                    | Werte           | Kosten | Beschreibung                                                                      | Nice to Have         |
 | Rübe 1x1                  | 5Nahrung        | 1g     | Eine einfache Rüben. Gekocht wäre sie besser.                                     |                      |
 | Bund Rüben 2x2            | 25Nahrung       | 4g     | Ein Bund Rüben. Lecker. Gekocht wären sie besser.                                 |                      |
 | Sack Rüben 3x3            | 50Nahrung       | 8g     | Ein Sack Rüben. WoW so vieler Rüben. Gekocht wären sie besser.                    | NtH: Zufriedenheit - |
@@ -23,18 +22,16 @@ Nahrung:
 
 Medizin:
 
-|                  |       |        |                                               |                         |
+| Objekt           | Werte | Kosten (Playerpreis) | Beschreibung                                  | Nice to Have            |
 | ---------------- | ----- | ------ | --------------------------------------------- | ----------------------- |
-| Objekt           | Werte | Kosten | Beschreibung                                  | Nice to Have            |
 | Verband 1x1      | 10hp  | 10g    | Einfacher Verband aus Leinen.                 | NtH:+ Blutung entfernen |
 | Kräuterpaste 1x1 | 15hp  | 15g    | Eine Paste aus Heilkräuter. Riecht widerlich. | NtH:+15hp Overtime      |
 | Kräutersud 1x2   | 25hp  | 20g    | Ein Sud aus verschiedenen Kräutern.           |                         |
 
 Use-ables:
 
-|                         |                   |        |                                                          |              |
+| Objekt                  | Werte             | Kosten (Playerpreis) | Beschreibung                                             | Nice to Have |
 | ----------------------- | ----------------- | ------ | -------------------------------------------------------- | ------------ |
-| Objekt                  | Werte             | Kosten | Beschreibung                                             | Nice to Have |
 | Schleifenstein 1x1      | Waffen Pflege     | 15 g   |                                                          |              |
 | Reparatur-Set 2x3       | Reparatur Objekt  | 25g    | Repariert den Wagen einmalig.                            |              |
 | Sack-Groschen 1x1 - 2x2 | 10-100g oder mehr | N/A    | NtH: In Inventar Behälter kann geöffnet werden für Loot. |              |

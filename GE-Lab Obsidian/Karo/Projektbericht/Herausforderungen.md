@@ -3,6 +3,7 @@
 	- Git-Plugins für UE sind meist veraltet bzw. noch nicht auf dem Stand der UE 5.4.4
 	- Gewähltes Plugin funktioniert nicht einwandfrei --> kann aber vermutlich konfiguriert werden --> kompliziert und Zeitaufwand
 	- Plugin hilft beim Committen und Pushen aus der Engine + besserer Überblick über veränderte Files
+   	- Update 13.12.: Plugin sorgt für Crashes und Probleme beim Öffnen des Projekts --> Plugin rausnehmen
 - Arbeiten mit Git und Unreal Engine
 	- noch nie gemacht
 	- Konflikte sollen möglichst vermieden werden --> Git-Workflow verwenden
@@ -22,3 +23,8 @@
 	- Zugriff und Verwenden von diesen sowohl in PCG als auch Cart-Movement
 - Kampf
 - Mehr Tasks als gedacht --> Tasks übernehmen
+- Inventar übernehmen --> nur noch ein Coder!! muss Arbeit einer Person komplett auffangen
+- Arbeiten mit Gameinstance --> Items, Charakterwerte etc. in neue Level übernehmen
+
+# Known-Bugs
+- Animationblueprint wirft Bugs am Anfang --> Natalie

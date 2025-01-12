@@ -131,8 +131,95 @@
 | Magiegeräusch für Flüssigkeit --> ominöses Wabern, Rauschen --> magische Flüssigkeit rauscht in einer Art Gefäß                                                  | Robin                |
 | Altes Windrad quietscht im Wind --> Windrad wie auf amerikanischer Farm --> aus Metall oder Holz                                                                 | Robin                |
 
+##### Sound Liste Integration
 
-
+|                             |       |      |
+| --------------------------- | ----- | ---- |
+| Sound                       | Robin | Karo |
+| droplets.wav                | x     |      |
+| healing.wav                 |       |      |
+| Coins 4.wav                 |       |      |
+| Coins 5.wav                 |       |      |
+| Metal 6.wav                 |       |      |
+| Wind 1.wav                  |       |      |
+| Coins 6.wav                 |       |      |
+| Drink 1.wav                 |       |      |
+| Wind 3rd version decent.wav | x     |      |
+| Click Button 1.wav          |       |      |
+| Quest annehmen.wav          |       |      |
+| Quest notification.wav      |       |      |
+| Sack öffnen.wav             |       |      |
+| Schriftrolle 1.wav          |       |      |
+| Money 1.wav                 |       |      |
+| Coins 1.wav                 |       |      |
+| Coins 2.wav                 |       |      |
+| Coins 3.wav                 |       |      |
+| Drink 2.wav                 |       |      |
+| Drink 3.wav                 |       |      |
+| Metal 1.wav                 |       |      |
+| Metal 2.wav                 |       |      |
+| Metal 3.wav                 |       |      |
+| Metal 5.wav                 |       |      |
+| Click Button 2.wav          |       |      |
+| Click Button 3.wav          |       |      |
+| Bandit_Death_1.wav          |       |      |
+| Ast_1.wav                   | x     |      |
+| Ast_2.wav                   | x     |      |
+| Bandit_2_damage_1.wav       |       |      |
+| Bandit_2_damage_2.wav       |       |      |
+| Bandit_2_death_1.wav        |       |      |
+| Bandit_damage_1.wav         |       |      |
+| Bandit_damage_2.wav         |       |      |
+| Bandit_damage_3.wav         |       |      |
+| Fenster_1.wav               | x     |      |
+| Bush 1.wav                  | x     |      |
+| Button_click_1.wav          |       |      |
+| Button_click_2.wav          |       |      |
+| Button_click_3.wav          |       |      |
+| Buy_1.wav                   |       |      |
+| Drink_1.wav                 |       |      |
+| Drink_2.wav                 |       |      |
+| Droplets.wav                | x     |      |
+| Item_equip_1.wav            |       |      |
+| Gebüsch_1.wav               | x     |      |
+| Healing.wav                 |       |      |
+| Horse_1.wav                 |       |      |
+| Horse_2.wav                 |       |      |
+| Horse_Walk_1.wav            |       |      |
+| Horse_Walk_2.wav            |       |      |
+| Inventar_öffnen_1.wav       |       |      |
+| Inventar_schließen_1.wav    |       |      |
+| Mystic_sound_2.wav          | x     |      |
+| Item_equip_2.wav            |       |      |
+| Item_equip_3.wav            |       |      |
+| Liquid_1.wav                |       |      |
+| Mutant_damage_1.wav         |       |      |
+| Mutant_damage_2.wav         |       |      |
+| Mutant_damage_3.wav         |       |      |
+| Mystic_sound_1.wav          | x     |      |
+| Sack_öffnen_2.wav           |       |      |
+| Quest annehmen.wav          |       |      |
+| Quest notification.wav      |       |      |
+| Quietschen_1.wav            | x     |      |
+| Quietschen_2.wav            | x     |      |
+| Sack_öffnen_1.wav           |       |      |
+| Wood_2.wav.                 | x     |      |
+| Töpfe_1.wav                 |       |      |
+| Töpfe_2.wav                 |       |      |
+| Truhe_öffnen_1.wav          |       |      |
+| Truhe_schließen_1.wav       |       |      |
+| Wind 1.wav                  | x     |      |
+| Wind 2nd version 1.wav      | x     |      |
+| Windrand_1.wav              | x     |      |
+| Wood_1.wav                  | x     |      |
+| Woosh_1.wav                 | x     |      |
+| Wood_3.wav                  | x     |      |
+| Pick_up_5.wav               |       |      |
+| Pick_up_1.wav               |       |      |
+| Pick_up_2.wav               |       |      |
+| Pick_up_3.wav               |       |      |
+| Pick_up_4.wav               |       |      |
+| Wagen_test.wav              |       |      |
 
 
 

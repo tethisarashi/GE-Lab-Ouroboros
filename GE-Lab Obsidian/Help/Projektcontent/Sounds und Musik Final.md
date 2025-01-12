@@ -132,10 +132,8 @@
 | Altes Windrad quietscht im Wind --> Windrad wie auf amerikanischer Farm --> aus Metall oder Holz                                                                 | Robin                |
 
 ##### Sound Liste Integration
-
-|                             |       |      |
+| Sound                       | Robin | Karen |
 | --------------------------- | ----- | ---- |
-| Sound                       | Robin | Karo |
 | droplets.wav                | x     |      |
 | healing.wav                 |       |      |
 | Coins 4.wav                 |       |      |

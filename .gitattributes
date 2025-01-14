@@ -1,2 +1,5 @@
 *.blend filter=lfs diff=lfs merge=lfs -text
 /Presentation/ filter=lfs diff=lfs merge=lfs -text
+C:UserskarenDesktopStudiumA-Zweitstudium3. filter=lfs diff=lfs merge=lfs -text
+Project_OuroborosContentSoundSoundfileswindrad_1.uasset filter=lfs diff=lfs merge=lfs -text
+Soundswindrad_1.wav filter=lfs diff=lfs merge=lfs -text

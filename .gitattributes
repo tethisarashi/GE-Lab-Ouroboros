@@ -5,3 +5,4 @@ Project_OuroborosContentSoundSoundfileswindrad_1.uasset filter=lfs diff=lfs merg
 Soundswindrad_1.wav filter=lfs diff=lfs merge=lfs -text
 *.mov filter=lfs diff=lfs merge=lfs -text
 *.pptx filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text

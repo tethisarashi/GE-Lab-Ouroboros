@@ -1,5 +1,5 @@
 Rougelike-Ressourcenmanagement-Spiel, welches im Rahmen der Vorlesung Game-Engineering-Lab im Wintersemester 2024/25 entstanden ist
-Version: 2024
+Version: 2025
 
 Entwickelt in der Unreal Engine 5.4.4
 
